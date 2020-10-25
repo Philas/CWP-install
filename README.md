@@ -5,7 +5,7 @@ This script installs and configures CWP according to the best practices.
 ## Installation
 
 ```bash
-wget https://raw.githubusercontent.com/diyarit/CWP-Config/master/install_cwp.sh && bash install_cwp.sh
+wget https://raw.githubusercontent.com/Philas/CWP-install/main/install_cwp.sh && bash install_cwp.sh
 ```
 
 ## NOTE: Install only on CentOS 7 Minimal
